@@ -14,10 +14,12 @@
 
 <p align="center">
   <a href="https://github.com/DorvynHQ" style="text-decoration: none">
-    <picture>
+  <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-dark.svg">
-      <img alt="" height="12" width="12" align="absmiddle" src="assets/github-mark.svg">
-    </picture>
+      <img alt="" height="16" width="16" align="absmiddle" src="assets/github-mark.svg">
+  </picture>
+  </a>
+  <a href="https://github.com/DorvynHQ" style="text-decoration: none">
     GitHub
   </a>
 </p>
@@ -55,4 +57,4 @@ Dorvyn is a technology company building proprietary SaaS products and developer 
 
 ## Organization
 
-Public work from Dorvyn is published under <a href="https://github.com/DorvynHQ" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-dark.svg"><img alt="" height="12" width="12" align="absmiddle" src="assets/github-mark.svg"></picture> DorvynHQ</a>.
+Public work from Dorvyn is published under <picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-dark.svg"><img alt="" height="16" width="16" align="absmiddle" src="assets/github-mark.svg"></picture><a href="https://github.com/DorvynHQ" style="text-decoration: none"> DorvynHQ</a> .
